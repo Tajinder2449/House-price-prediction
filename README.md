@@ -26,8 +26,9 @@ Linear Regression model is used to predict house prices based on the given datas
 2. Run the Streamlit app:
    streamlit run app.py
 
-## 📁 Project Structure
 
+## 📁 Project Structure
+```
 house-price-prediction/
 │
 ├── app.py
@@ -36,7 +37,7 @@ house-price-prediction/
 ├── dataset.csv
 ├── requirements.txt
 ├── README.md
-
+```
 ## 🎯 Output
 The app takes user input and predicts the estimated house price instantly.
 
